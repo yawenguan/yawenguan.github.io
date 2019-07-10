@@ -14,7 +14,7 @@ description: Yawen's site
 url: "https://yawenguan.com"
 
 # baseurl should be an empty string
-baseurl: "https://yawenguan.com"
+baseurl: ""
 
 # --- Navigation bar options --- #
 
