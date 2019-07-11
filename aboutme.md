@@ -14,9 +14,9 @@ My research interests are
 - Cmputational methods for large data
 - Climate and environmental applications
 
-### my contact
-Email: yguan12@unl.edu
-Office Address: 
-4244 SAS Hall
-2311 Stinson Dr.
-Raleigh, NC 27607
+**contact**
+ Email: yguan12@unl.edu
+ Office Address: 
+  4244 SAS Hall
+  2311 Stinson Dr.
+  Raleigh, NC 27607
