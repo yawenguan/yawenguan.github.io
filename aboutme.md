@@ -15,8 +15,5 @@ My research interests are
 - Climate and environmental applications
 
 **contact**
- Email: yguan12@unl.edu
- Office Address: 
-  4244 SAS Hall
-  2311 Stinson Dr.
-  Raleigh, NC 27607
+- Email: yguan12@unl.edu
+- Office Address: 4244 SAS Hall, 2311 Stinson Dr., Raleigh, NC 27607
