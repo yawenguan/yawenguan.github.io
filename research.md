@@ -4,7 +4,7 @@ title: Selected projects
 ---
 
 <div align="center">
-<a href="https://scholar.google.com/citations?user=uWmNwTAAAAAJ&hl=en" target="_blank"><img src="img/GoogleScholar.jpg" alt="Google Scholar" height="30"></a>
+<a href="https://scholar.google.com/citations?user=uWmNwTAAAAAJ&hl=en" target="_blank"><img src="img/scholar_logo_64dp.jpg" alt="Google Scholar" height="30"></a>
 </div>
 
 ----
