@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Thank you for visiting my site!
+subtitle: 
 ---
 
 
