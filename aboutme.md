@@ -18,4 +18,4 @@ My research interests are
 
 **Contact**
 - Email: yguan12@unl.edu
-- Office Address: 343C Hardin Hall, Lincoln, NE 68583
+- Office Address: 343F Hardin Hall, Lincoln, NE 68583
