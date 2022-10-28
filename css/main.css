@@ -630,6 +630,7 @@ footer .theme-by {
 
 table {
   padding: 0;
+  border: none;
 }
 table tr {
   border-top: 1px solid #cccccc;
@@ -637,6 +638,7 @@ table tr {
   margin: 0;
   padding: 0;
 }
+
 table tr:nth-child(2n) {
   background-color: #f8f8f8;
 }
@@ -649,7 +651,7 @@ table tr th {
 }
 table tr td {
   border: 1px solid #cccccc;
-  text-align: left;
+  text-align: center;
   margin: 0;
   padding: 6px 13px;
 }
