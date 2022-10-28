@@ -3,24 +3,25 @@ layout: page
 title: Current Lab Members
 ---
 
-<div class="row">
-  <div class="column">
-    <div><a href=""><img src="/img/Alison Kleffner.jpeg" alt="Alison Kleffner, Ph.D. Candidate" height="250"></a></div>
-    <div>Alison Kleffner</div>
+
+  <div class="row">
+    <div class="col">
+     <div><a href=""><img src="/img/Alison Kleffner.jpeg" alt="Alison Kleffner, Ph.D. Candidate" height="250"></a></div>
+     <div>Alison Kleffner</div>
+     </div>
+    <div class="col">
+      <div><a href=""><img src="/img/Zeinab Mohamed.jpg" alt="Zeinab Mohamed, Ph.D. Candidate" height="250"></a></div>
+      <div>Zeinab Mohamed</div>
+    </div>
+    <div class="col">
+       <div><a href=""><img src="/img/Jiaqi Chen.jpg" alt="Jiaqi Chen, Ph.D. Student" height="250"></a></div>
+       <div>Jiaqi Chen</div>
+    </div>
+    <div class="col">
+        <div><a href=""><img src="/img/David Nguyen.jpg" alt="David Nguyen, M.S. Statistics" height="250"></a></div>
+        <div>David Nguyen</div>
+    </div>
   </div>
-  <div class="column">
-    <div><a href=""><img src="/img/Zeinab Mohamed.jpg" alt="Zeinab Mohamed, Ph.D. Candidate" height="250"></a></div>
-    <div>Zeinab Mohamed</div>
-  </div>
-  <div class="column">
-    <div><a href=""><img src="/img/Jiaqi Chen.jpg" alt="Jiaqi Chen, Ph.D. Student" height="250"></a></div>
-    <div>Jiaqi Chen</div>
-  </div>
-  <div class="columnn">
-    <div><a href=""><img src="/img/David Nguyen.jpg" alt="David Nguyen, M.S. Statistics" height="250"></a></div>
-    <div>David Nguyen</div>
-  </div>
-  
-</div>
+
 
 ----
