@@ -11,10 +11,16 @@ title: Current Lab Members
    <td width="25%"> <a href=""><img src="/img/David Nguyen.jpg" alt="David Nguyen, Ph.D. Candidate" height="180"></a></td>
 </tr>
 <tr>
-   <td> Alison Kleffner </td>
+   <td> <a href="https://alison-kleffner.netlify.app">Alison Kleffner</a>  </td>
    <td> Zeinab Mohamed </td>   
    <td> Jiaqi Chen </td>
    <td> David Nguyen</td>
+</tr>
+<tr>
+   <td> Ph.D. Candidate </td>
+   <td> Ph.D. Candidate </td>   
+   <td> Ph.D. Student </td>
+   <td> M.S. Statistics </td>
 </tr>
  </table>
 
