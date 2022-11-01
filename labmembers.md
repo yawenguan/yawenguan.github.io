@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Current Lab Members
+
 ---
 
 <table cellspacing="0" cellpadding="0">
