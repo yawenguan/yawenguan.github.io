@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Current Lab Members
-
+title: 
 ---
-
+Current Lab Members
 <table cellspacing="0" cellpadding="0">
 <tr>
    <td width="25%">  <a href="https://alison-kleffner.netlify.app"><img src="/img/Alison Kleffner.jpeg" alt="Alison Kleffner, Ph.D. Candidate" height="180"></a> </td>
