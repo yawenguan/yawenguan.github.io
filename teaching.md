@@ -12,6 +12,6 @@ STAT463 Introduction to Mathematical Statistics II - Spring 2021 & Spring 2022
 
 STAT801 Statistical Methods in Research - Fall 2019  
 
-STAT983 Statistical Learning (Ph.D. level)- Spring 2023 (Anticipated) 
+STAT983 Statistical Learning (Ph.D. level)- Spring 2023 (In preparation) 
 
 ---
