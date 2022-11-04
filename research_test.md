@@ -11,7 +11,7 @@ See my Google Scholar page for a full list of publications.
 Selected projects:
 
 <div align="left">
-<a href="" target="_blank"><img src="/img/icemotion.gif" alt="Ice Motion" width="100"></a>
+<a href="" target="_blank"><img src="/img/icemotion.gif" alt="Ice Motion" width="200"></a>
 </div>
 
 
