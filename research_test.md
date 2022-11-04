@@ -10,6 +10,11 @@ See my Google Scholar page for a full list of publications.
 ----
 Selected projects:
 
+<div align="left">
+<a href="" target="_blank"><img src="/img/icemotion.gif" alt="Ice Motion" width="100"></a>
+</div>
+
+
 <span style="color:red">  **1. Computer Model Calibration based on Image Warping Metrics** </span> [*Paper*](https://arxiv.org/abs/1810.06608)
     
 Sea ice models governed by physical equations have been used to simulate the 
