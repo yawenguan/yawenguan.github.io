@@ -4,6 +4,7 @@ title:
 subtitle: 
 ---
 
+I will be joining the Department of Statistics at Colorado State University as an Assistant Professor this Fall! 
 
 My name is Yawen Guan, I am an Assistant Professor in the Department of Statistics at University of Nebraska - Lincoln. Prior to joining UNL, I spent two years at SAMSI/NC State University as a postdoctoral fellow developing spatiotemporal methods for air quality, and emulation-calibration methods for the Artic sea ice. 
 
