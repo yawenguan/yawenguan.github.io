@@ -3,10 +3,10 @@ layout: page
 title:
 ---
 
-At CSU<br>
+CSU<br>
 STAA 573 Analysis of Time Series - Fall 2023<br>
 
-At UNL<br>
+UNL<br>
 STAT101 Introduction to Data - Fall 2021 & Fall 2022<br>
 STAT380 Statistics and Applications - Spring 2020<br>
 STAT462 Introduction to Mathematical Statistics I - Fall 2020 & Fall 2021<br>
