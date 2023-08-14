@@ -68,7 +68,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   #rss: true
-  email: "yguan12@unl.edu"
+  email: "yawen.guan@colostate.edu"
   github: yawenguan
 #  reddit: yourname
   linkedin: yawen-guan-36367640
@@ -91,7 +91,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "yguan12@unl.edu"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "yawen.guan@colostate.edu"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
