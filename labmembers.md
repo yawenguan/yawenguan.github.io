@@ -28,9 +28,9 @@ Former Lab Members
    <td> David Nguyen</td>
 </tr>
 <tr>
-   <td> Ph.D. Statistics (Position after graduation: Assistant Professor, Creighton University) </td>
-   <td> Ph.D. Statistics (Position after graduation: Assistant Professor, Oberlin College) </td>
-   <td> M.S. Statistics </td>
+   <td> Ph.D. in Statistics (Position after graduation: Assistant Professor, Creighton University) </td>
+   <td> Ph.D. in Statistics (Position after graduation: Assistant Professor, Oberlin College) </td>
+   <td> M.S. in Statistics </td>
 </tr>
  </table>
 
