@@ -23,7 +23,7 @@ Former Lab Members
    <td width="25%"> <a href=""><img src="/img/David Nguyen.jpg" alt="David Nguyen, Ph.D. Candidate" height="180"></a></td>
 </tr>
 <tr>
-   <td> <a href="https://alison-kleffner.netlify.app">Alison Kleffner (co-advise with Dr. Susan VanderPlas</a>  </td> 
+   <td> <a href="https://alison-kleffner.netlify.app">Alison Kleffner (co-advise with Dr. Susan VanderPlas) </a>  </td> 
    <td> Zeinab Mohamed </td>   
    <td> David Nguyen</td>
 </tr>
