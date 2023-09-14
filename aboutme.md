@@ -12,7 +12,7 @@ My research interests are
 - Spatial and spatiotemporal statistics
 - Computer model emulation and calibration
 - Bayesian hierarchical modeling
-- Cmputational methods for large data
+- Computational methods for large data
 - Climate and environmental applications
 
 **Contact**
