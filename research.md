@@ -11,6 +11,9 @@ See my Google Scholar page for a full list of publications.
 Selected projects:
 
 
+<span style="color:red">  **Spectral adjustment for spatial confounding** </span> [*Paper*](https://academic.oup.com/biomet/article/110/3/699/6955604)
+Adjusting for an unmeasured confounder is generally an intractable problem, but in the spatial setting it may be possible under certain conditions. We derive necessary conditions on the coherence between the exposure and the unmeasured confounder that ensure the effect of exposure is estimable. We specify our model and assumptions in the spectral domain to allow for different degrees of confounding at different spatial resolutions. One assumption that ensures identifiability is that confounding present at global scales dissipates at local scales. We show that this assumption in the spectral domain is equivalent to adjusting for global-scale confounding in the spatial domain by adding a spatially smoothed version of the exposure to the mean of the response variable. Within this general framework, we propose a sequence of confounder adjustment methods that range from parametric adjustments based on the Matérn coherence function to more robust semiparametric methods that use smoothing splines. These ideas are applied to areal and geostatistical data for both simulated and real datasets.
+
 <span style="color:red">  **Computer Model Calibration based on Image Warping Metrics** </span> [*Paper*](https://arxiv.org/abs/1810.06608)
     
 Sea ice models governed by physical equations have been used to simulate the 
