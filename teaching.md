@@ -4,6 +4,9 @@ title:
 ---
 
 CSU<br>
+STAA 573 Analysis of Time Series - Fall 2024<br>
+STAA 574 Methods in Multivariate Analysis - Spring 2024<br>
+STAA 575 Applied Bayesian Statistics - Spring 2024<br>
 STAA 573 Analysis of Time Series - Fall 2023<br>
 
 UNL<br>
