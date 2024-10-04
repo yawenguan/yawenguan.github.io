@@ -1,17 +1,15 @@
 ---
 layout: page
-title: 
+title:
 ---
 
-| Current Lab Members    | 
-| :-------- | 
-| Karissa Palmer (Ph.D. Student at CSU)  | 
-| John Henry Gray (Ph.D. Student at CSU) | 
-| Jiaqi Chen (Ph.D. Student at UNL)    | 
+Current Lab Members<br>
+Karissa Palmer (Ph.D. Student at CSU)<br>
+John Henry Gray (Ph.D. Student at CSU)<br>
+Jiaqi Chen (Ph.D. Student at UNL)<br>
 
 
-| Former Lab Members    | 
-| :-------- | 
-| <a href="https://alison-kleffner.netlify.app">Alison Kleffner </a> (co-advised with Dr. Susan VanderPlas); Position after graduation: Assistant Professor, Creighton University | 
-| Zeinab Mohamed; Position after graduation: Assistant Professor, Oberlin College | 
-| David Nguyen; M.S. in Statistics    | 
+Former Lab Members<br>
+Alison Kleffner (co-advised with Dr. Susan VanderPlas); Position after graduation: Assistant Professor, Creighton University<br>
+Zeinab Mohamed; Position after graduation: Assistant Professor, Oberlin College<br>
+David Nguyen; M.S. in Statistics<br>
