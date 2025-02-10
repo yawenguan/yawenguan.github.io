@@ -5,7 +5,7 @@ title:
 
 **Current Lab Members**<br>
   Karissa Palmer (Ph.D. Student at CSU)<br>
-  Tristan Contant (Ph.D. Student at CSU)<br>
+  Tristan Contant (Ph.D. Student at CSU; Co-advised with Dr. Ander Wilson)<br>
   Jiaqi Chen (Ph.D. Student at UNL)<br>
 
 
