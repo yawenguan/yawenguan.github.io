@@ -4,9 +4,10 @@ title:
 ---
 
 CSU<br>
+STAT 430 Probability and Mathematical Statistics II  - Spring 2025<br>
 STAA 573 Analysis of Time Series - Fall 2024<br>
 STAA 574 Methods in Multivariate Analysis - Spring 2024<br>
-STAA 575 Applied Bayesian Statistics - Spring 2024<br>
+STAA 575 Applied Bayesian Statistics - Spring 2024 & Spring 2025 <br>
 STAA 573 Analysis of Time Series - Fall 2023<br>
 
 UNL<br>
